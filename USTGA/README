@@ -1,0 +1,10 @@
+This repository provides the official implementation of the paper:
+USTGA: Unified Spatial-Temporal Graph Aggregation for Student Performance Prediction
+
+This work proposes a **Unified Spatial-Temporal Graph Aggregation (USTGA)** framework for student performance prediction.  
+Unlike conventional approaches that model spatial and temporal dependencies separately, USTGA integrates spatial similarity directly into temporal dependency modeling within a unified graph structure.
+The model further employs:
+- Attention-guided aggregation
+- Multi-layer feature refinement
+- Inductive neighborhood-based representation learning 
+to effectively capture complex spatial-temporal interactions.
